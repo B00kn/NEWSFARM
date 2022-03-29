@@ -19,3 +19,10 @@ The comparison result of NEWSFARM to other datasets is shown in the table below.
 | compression ratio(words/sentences) | 0.92/0.92 | 0.93/0.92 | 0.83/0.90 | 0.93/0.88 |
 | avg.document length | 1,048.00/39.29 | 1,584.00/36.00 | 108.80/10.13 | 687.09/31.66 |
 | avg.summary length | 86.90/3.05 | 106.00/3.00 | 19.00/1.00 | 48.49/3.73 |
+
+## Sample
+We selected some data from the dataset as samples, click here to get.
+
+## Download
+We split the corpus into three parts, including training, validation and test set. The data can be downloaded from the link here. If you want to get the password, please feel free to contact with us by: zangshunan@iie.ac.cn
+The download consists of three parts: NEWSFARM, ex*NEWSFARM and ex*CNN/DM.(ex* represents the expanded dataset）
