@@ -24,5 +24,4 @@ The comparison result of NEWSFARM to other datasets is shown in the table below.
 We selected some data from the dataset as samples, click here to get.
 
 ## Download
-We split the corpus into three parts, including training, validation and test set. The data can be downloaded from the link here. If you want to get the password, please feel free to contact with us by: zangshunan@iie.ac.cn
-The download consists of three parts: NEWSFARM, ex*NEWSFARM and ex*CNN/DM.(ex* represents the expanded dataset）
+We split the corpus into three parts, including training, validation and test set. The data can be downloaded from the link here. The download consists of three parts: NEWSFARM, ex*NEWSFARM and ex*CNN/DM.(ex* represents the expanded dataset）If you want to get the password, please feel free to contact with us by: zangshunan@iie.ac.cn
