@@ -20,7 +20,7 @@ The comparison result of NEWSFARM to other datasets is shown in the table below.
 | avg.document length | 2,228.22/23.91 | 108.80/10.13 | 687.09/31.66 |
 | avg.summary length | 198.42/2.02 | 19.00/1.00 | 48.49/3.73 |
 
-ROUGE(F1) scores of baseline models on NEWSFARM, non-anonymized version of the CNN/DM.
+ROUGE(F1) scores of baseline models on NEWSFARM and non-anonymized version of the CNN/DM.
 
 | Dataset | NEWSFARM | CNN/DM |
 | :---: | :---: | :---: |
