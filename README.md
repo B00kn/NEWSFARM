@@ -21,7 +21,7 @@ The comparison result of NEWSFARM to other datasets is shown in the table below.
 | avg.summary length | 198.42/2.02 | 106.00/3.00 | 19.00/1.00 | 48.49/3.73 |
 
 | Dataset | NEWSFARM | CNN/DM |
-| :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Model   |R-1|R-2|R-L|R-1|R-2|R-L|R-1|R-2|R-L|
 |TextRank |43.00|26.93|33.42|35.23|13.90|31.48|
 |BertSumExt|52.65|39.61|46.91|43.23|20.24|39.63|
