@@ -13,12 +13,12 @@ The dataset is introduced in (NEWSFARM: A Large-scale Chinese Corpus of Long New
 ## Properties
 The comparison result of NEWSFARM to other datasets is shown in the table below. For Chinese dataset, length is the number of Chinese characters, while for English, it is the number of words.
 
-| Dataset | NEWSFARM | CLES | LCSTS | CNN/DM |
-| :---: | :---: | :---: | :---: | :---: |
-| #docs(total/train/val/test) | 224,480/185,125/18,123/21,232 | 103,893/95,000/3,839/5,000 | 2,412,163/2,400,391/10,666/1,106 | 312,085/287,227/13,368/11,490 |
-| compression ratio(words/sentences) | 0.91/0.92 | 0.93/0.92 | 0.83/0.90 | 0.93/0.88 |
-| avg.document length | 2,228.22/23.91 | 1,584.00/36.00 | 108.80/10.13 | 687.09/31.66 |
-| avg.summary length | 198.42/2.02 | 106.00/3.00 | 19.00/1.00 | 48.49/3.73 |
+| Dataset | NEWSFARM | LCSTS | CNN/DM |
+| :---: | :---: | :---: | :---: |
+| #docs(total/train/val/test) | 224,480/185,125/18,123/21,232 | 2,412,163/2,400,391/10,666/1,106 | 312,085/287,227/13,368/11,490 |
+| compression ratio(words/sentences) | 0.91/0.92 | 0.83/0.90 | 0.93/0.88 |
+| avg.document length | 2,228.22/23.91 | 108.80/10.13 | 687.09/31.66 |
+| avg.summary length | 198.42/2.02 | 19.00/1.00 | 48.49/3.73 |
 
 | Dataset | NEWSFARM | CNN/DM |
 | :---: | :---: | :---: |
