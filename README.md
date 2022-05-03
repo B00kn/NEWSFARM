@@ -35,7 +35,7 @@ ROUGE(F1) scores of baseline models on NEWSFARM and non-anonymized version of th
 |BertSumExtAbs|48.59/33.01/39.87|42.13/19.60/39.18|
 
 ## Sample
-We selected some data from the dataset as samples, click here to get.
+We selected some data from the dataset as samples, click [here](NEWSFARM_SAMPLE.tgt,NEWSFARM_SAMPLE.src) to get.
 
 ## Download
-We split the corpus into three parts, including training, validation and test set. The data can be downloaded from the link [here](https://pan.baidu.com/s/1fWg-zdACqUE_DxNHRnbjNw). The download consists of three parts: NEWSFARM, ex*NEWSFARM and ex*CNN/DM.(ex* represents the expanded dataset）If you want to get the password, please feel free to contact with us by: zangshunan@iie.ac.cn
+We split the corpus into three parts, including training, validation and test set. The data can be downloaded from the link [here](https://pan.baidu.com/s/1fWg-zdACqUE_DxNHRnbjNw). If you want to get the password, please feel free to contact with us by: zangshunan@iie.ac.cn
