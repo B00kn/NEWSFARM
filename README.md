@@ -22,7 +22,7 @@ The comparison result of NEWSFARM to other datasets is shown in the table below.
 
 | Dataset | NEWSFARM | CNN/DM |
 | :---: | :---: | :---: |
-| Model   |R-1/R-2/R-L|R-1/R-2/R-L|R-1/R-2/R-L|
+| Model   |ROUGE-1/ROUGE-2/ROUGE-L|ROUGE-1/ROUGE-2/ROUGE-L|
 |TextRank |43.00/26.93/33.42|35.23/13.90/31.48|
 |BertSumExt|52.65/39.61/46.91|43.23/20.24/39.63|
 |Seq2seq-att|56.40/45.17/51.94|31.33/11.81/28.83|
