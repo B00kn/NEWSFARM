@@ -6,6 +6,7 @@ The current work on summarization datasets has made some progress, but suffers f
 (2) The development of various datasets is unbalanced. While the English datasets are well developed, the other language datasets lag behind.   
 (3) The amount of data in the dataset is insufficient.   
 (4) Dirty data during the construction of summarization datasets are not classified in detail, and the data cleaning algorithm is too simple to handle dirty data well.
+
 NEWSFARM is a large-scale Chinese long news summarization corpus, containing more than 220K Chinese long news and summaries written by professional editors or authors.
 The dataset is introduced in (NEWSFARM: A Large-scale Chinese Corpus of Long News Summarization)
 
