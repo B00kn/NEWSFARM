@@ -43,7 +43,7 @@ ROUGE(F1) scores of baseline models on NEWSFARM and non-anonymized version of th
 We selected some data from the dataset as samples, click [here](https://github.com/B00kn/NEWSFARM) to get.
 
 ## Download
-We split the corpus into three parts, including training, validation and test set. The data can be downloaded from the link [here](https://pan.baidu.com/s/1fWg-zdACqUE_DxNHRnbjNw). 
+We split the corpus into three parts, including training, validation and test set. The data can be downloaded from the [link](https://pan.baidu.com/s/1fWg-zdACqUE_DxNHRnbjNw). 
 
 The password is "iie1".
 
