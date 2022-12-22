@@ -1,6 +1,25 @@
 # NEWSFARM
-A Large-scale Chinese Corpus of Long News Summarization.
-The paper download link click [here](https://doi.org/10.1109/ICPR56361.2022.9956691).
+A Large-scale Chinese Corpus of Long News Summarization. The paper download link click [here](https://doi.org/10.1109/ICPR56361.2022.9956691). If you want to use this dataset, please cite this article.
+##bib file
+@inproceedings{DBLP:conf/icpr/ZangZLCZL22,
+  author    = {Shunan Zang and
+               Chuang Zhang and
+               Xiaojun Liu and
+               Xiaojun Chen and
+               Peng Zhang and
+               Jie Liu},
+  title     = {{NEWSFARM:} {A} Large-Scale Chinese Corpus of Long News Summarization},
+  booktitle = {26th International Conference on Pattern Recognition, {ICPR} 2022,
+               Montreal, QC, Canada, August 21-25, 2022},
+  pages     = {2260--2272},
+  publisher = {{IEEE}},
+  year      = {2022},
+  url       = {https://doi.org/10.1109/ICPR56361.2022.9956691},
+  doi       = {10.1109/ICPR56361.2022.9956691},
+  timestamp = {Thu, 01 Dec 2022 15:50:19 +0100},
+  biburl    = {https://dblp.org/rec/conf/icpr/ZangZLCZL22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 ## Introduction
 The current work on summarization datasets has made some progress, but suffers from the following problems.   
 (1) Insufficient number of text summarization datasets.     
