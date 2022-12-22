@@ -1,5 +1,6 @@
 # NEWSFARM
-A Large-scale Chinese Corpus of Long News Summarization
+A Large-scale Chinese Corpus of Long News Summarization.
+The paper download link click [here](https://doi.org/10.1109/ICPR56361.2022.9956691) to get
 ## Introduction
 The current work on summarization datasets has made some progress, but suffers from the following problems.   
 (1) Insufficient number of text summarization datasets.     
