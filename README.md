@@ -1,6 +1,6 @@
 # NEWSFARM
 A Large-scale Chinese Corpus of Long News Summarization.
-The paper download link click [here](https://doi.org/10.1109/ICPR56361.2022.9956691) to get
+The paper download link click [here](https://doi.org/10.1109/ICPR56361.2022.9956691).
 ## Introduction
 The current work on summarization datasets has made some progress, but suffers from the following problems.   
 (1) Insufficient number of text summarization datasets.     
@@ -39,4 +39,4 @@ ROUGE(F1) scores of baseline models on NEWSFARM and non-anonymized version of th
 We selected some data from the dataset as samples, click [here](https://github.com/B00kn/NEWSFARM) to get.
 
 ## Download
-We split the corpus into three parts, including training, validation and test set. The data can be downloaded from the link [here](https://pan.baidu.com/s/1fWg-zdACqUE_DxNHRnbjNw). If you want to get the password, please feel free to contact with us by: zangshunan@iie.ac.cn
+We split the corpus into three parts, including training, validation and test set. The data can be downloaded from the link [here](https://pan.baidu.com/s/1fWg-zdACqUE_DxNHRnbjNw). The password is iie1.
