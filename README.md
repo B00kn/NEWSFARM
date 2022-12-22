@@ -1,6 +1,8 @@
 # NEWSFARM
 A Large-scale Chinese Corpus of Long News Summarization. 
-The paper download link click [here](https://doi.org/10.1109/ICPR56361.2022.9956691). 
+
+The paper download link click [here](https://doi.org/10.1109/ICPR56361.2022.9956691).
+
 If you want to use this dataset, please cite this paper.
 
 ## Bib File
